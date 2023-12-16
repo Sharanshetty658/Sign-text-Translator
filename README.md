@@ -227,7 +227,7 @@ Note : Python 3.8 or above is required to build this project, as some of the lib
 
 10. enchant -> pip install pyenchant (Python bindings for the Enchant spellchecking system)
 
-11. hunspell -> pip install cyhunspell (A wrapper on hunspell for use in Python)
+11. Spellchacker --> pip install pyspellchecker
 ```
 
 ## Running the Project 
