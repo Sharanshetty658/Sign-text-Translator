@@ -72,7 +72,7 @@ I captured each frame shown by the webcam of our machine.
 
 In each frame I defined a region of interest (ROI) which is denoted by a blue bounded square as shown in the image below.
 
-![Training Data Collection Image]
+![Training Data Collection Image](images/process.png)
 
 After capturing the image from the ROI, I applied gaussian blur filter to the image which helps for extracting various features of the image. 
 
@@ -144,7 +144,7 @@ After getting values from fully connected layer, well connect them to final laye
 
 ![Model Summary](images/model_summary.PNG)
 
-![Output]
+![Output](images/GUI.PNG)
 
 
 ### 4: The final step after the model has been trained is of creating a GUI that will be used to convert Sings into text and form sentence, which would be helpful for communicating with D&M people.
