@@ -144,7 +144,7 @@ After getting values from fully connected layer, well connect them to final laye
 
 ![Model Summary](images/model_summary.PNG)
 
-![Output](images/GUI.PNG)
+![Output](images/GUI.png)
 
 
 ### 4: The final step after the model has been trained is of creating a GUI that will be used to convert Sings into text and form sentence, which would be helpful for communicating with D&M people.
