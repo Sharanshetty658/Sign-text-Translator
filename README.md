@@ -144,7 +144,8 @@ After getting values from fully connected layer, well connect them to final laye
 
 ![Model Summary](images/model_summary.PNG)
 
-![Output](images/output.PNG)
+![Output]
+
 
 ### 4: The final step after the model has been trained is of creating a GUI that will be used to convert Sings into text and form sentence, which would be helpful for communicating with D&M people.
 
@@ -181,7 +182,7 @@ So, to handle above cases I made three different classifiers for classifying the
 
 The GUI(Graphical User Interface) of the application is as shown below :
 
-![GUI](images/gui.png)
+![GUI]
 
 Flow Chart for Gesture Classification is as following :
 
